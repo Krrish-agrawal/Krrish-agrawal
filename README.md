@@ -46,9 +46,7 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 </p>
 
----
 
-<h3 align="left">🎖 Holopin Badges:</h3>
 
 [![An image of @krrishagrawal's Holopin badges](https://holopin.me/krrishagrawal)](https://holopin.io/@krrishagrawal)
 
