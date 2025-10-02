@@ -50,8 +50,8 @@
 
 <h3 align="left">🎖 Holopin Badges:</h3>
 <p align="center">
- <a href="https://www.holopin.io/@krrishagrawal/badges">
-  <img src="https://holopin.me/krrishagrawal" alt="Holopin badges" />
+ <a href="https://www.holopin.io/@krrishagrawal#badges">
+  <img src="[https://holopin.me/krrishagrawal](https://www.holopin.io/@krrishagrawal#badges)" alt="Holopin badges" />
 </a>
 
 </p>
