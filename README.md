@@ -7,10 +7,9 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="[https://www.linkedin.com/in/krrish-agrawal](https://www.linkedin.com/in/krrish-agrawal)" target="blank">
+  <a href="https://www.linkedin.com/in/krrish-agrawal" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-
 </p>
 
 ---
@@ -51,7 +50,7 @@
 
 <h3 align="left">🎖 Holopin Badges:</h3>
 <p align="center">
-  <a href="https://holopin.me/@krrishagrawal">
-    <img src="https://holopin.me/@krrishagrawal" alt="Holopin badges" />
+  <a href="https://www.holopin.io/@krrishagrawal">
+    <img src="https://www.holopin.io/@krrishagrawal#badges" alt="Holopin badges" />
   </a>
 </p>
