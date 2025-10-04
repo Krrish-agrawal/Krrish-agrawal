@@ -7,8 +7,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 - 📫 Reach me at **agruskrrishofficial@gmail.com**
 
----
-
+<br> <br>
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/krrish-agrawal" target="_blank">
@@ -16,7 +15,7 @@
   </a>
 </p>
 
----
+<br> <br>
 
 <h3 align="left">⚡ Languages and Tools:</h3>
 <p align="left"> 
