@@ -4,7 +4,7 @@
   <img src="https://github.com/Krrish-agrawal/Krrish-agrawal/blob/main/github_banner.png" alt="GitHub Banner" />
 </p>
 <h3 align="center">A passionate Web Developer</h3>
-
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 - 📫 Reach me at **agruskrrishofficial@gmail.com**
 
 ---
