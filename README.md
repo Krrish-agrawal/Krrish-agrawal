@@ -1,11 +1,16 @@
-<h1>Hi There, I'm Krrish Agrawal <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi There, I'm Krrish Agrawal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center">
   <img src="https://github.com/Krrish-agrawal/Krrish-agrawal/blob/main/github_banner.png" alt="GitHub Banner" />
 </p>
+
 <h3 align="center">A passionate Web Developer</h3>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-- 📫 Reach me at **agruskrrishofficial@gmail.com**
+
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200px">
+
+- 📫 Reach me at: 
+   **agruskrrishofficial@gmail.com**
+
 
 <br> <br>
 <h3 align="left">🌐 Connect with me:</h3>
