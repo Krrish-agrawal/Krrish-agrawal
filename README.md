@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krrish Agrawal</h1>
+<h1>Hi There, I'm Krrish Agrawal <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center">
   <img src="https://github.com/Krrish-agrawal/Krrish-agrawal/blob/main/github_banner.png" alt="GitHub Banner" />
