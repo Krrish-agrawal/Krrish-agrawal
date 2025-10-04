@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krrish Agrawal</h1>
+![](https://github.com/Krrish-agrawal/Krrish-agrawal/blob/main/github_banner.png)
 <h3 align="center">A passionate Web Developer</h3>
 
 - 📫 Reach me at **agruskrrishofficial@gmail.com**
